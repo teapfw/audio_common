@@ -10,7 +10,7 @@ import time
 import rclpy
 import rclpy.utilities
 
-from sound_play.libsoundplay import SoundClient
+from sound_play_py.libsoundplay import SoundClient
 
 from sound_play.msg import SoundRequest
 
